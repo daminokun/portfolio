@@ -25,7 +25,9 @@ https://daminokun.github.io/portfolio/
 ---
 
 ## Featured Projects
-- **To-Do List App**: Dynamic task management app with LocalStorage support.
+- **To-Do List App**: Dynamic task management app with LocalStorage support. ([Live Demo](https://daminokun.github.io/To-Do-List/) | [Repository](https://github.com/daminokun/To-Do-List))
+- **Pakcik Mubin**: Custom project repository. ([Repository](https://github.com/daminokun/Pakcik-Mubin))
+- **Personal Portfolio**: Responsive personal website showcasing projects and skills. ([Live Demo](https://daminokun.github.io/portfolio/) | [Repository](https://github.com/daminokun/portfolio))
 
 ---
 
